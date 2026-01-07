@@ -1,6 +1,7 @@
 # Portfolio Project
 
-## Project 1: Digital Marketing Campaign Report
+# Project 1: E-commerce Website Traffic and Conversion Analysis
+## Digital Marketing Campaign Analysis
 ## Project Overview 
 This project focuses on analyzing advertising campaign performance data which spans across one month.
 The dataset contains **2601** columns and **12** rows, which were initially unclean and inconsistent.
@@ -14,7 +15,8 @@ The dataset contains **2601** columns and **12** rows, which were initially uncl
   
 * [Click Here](https://github.com/Atunke-commits/Ads-Performance-Analysis)
 
-# Project 2: Big Home Data Sales Analysis Report
+# Project 2: Inventory Management And Optimization Analysis
+## Big Home Data Inventory And Optimization Analysis
 ## Project Overview
 This project leverages **SQL** for data extraction, transformation, and analysis to uncover key insights and performance trends across multiple departments and brands. The analysis focuses on sales performance, brand contributions, departmental performance, and discount effects to drive data-informed recommendations,
 ## Key Performance Indicators (KPIs)
@@ -38,7 +40,8 @@ This project explores Blinkit’s grocery sales dataset to understand category-l
   
 * [Click Here](https://github.com/Atunke-commits/Sales-Analysis)
 
-# Project 4: Belleza Sales Analysis Report
+# Project 4: Belleza Sales Analysis Store Performance and Sales Analysis Report
+## Belleza Sales Analysis Report
 ## Project Overview
 This project analyzes sales data from Belleza, a skincare and cosmetics company. The dataset was cleaned, standardized, and visualized using Power BI to uncover key business insights, sales trends, product performance, and regional distribution patterns over a six-month period.
 ## Dataset Columns:
@@ -62,8 +65,8 @@ This project analyzes sales data from Belleza, a skincare and cosmetics company.
 [Click Here](https://github.com/Atunke-commits/Belleza-Sales-store-Analysis)
 
 
-# Project 5: Store-Performance-Analysis
-## Book Store Sales & Ratings Analysis
+# Project 5:Customer Behaviour And Purchasing Pattern Analysis
+## Book Store Customer Behaviour & Ratings Analysis
 ### Project Objective
 * To analyze sales performance
 * To evaluate customers satisfactions
