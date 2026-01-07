@@ -23,3 +23,17 @@ This project leverages **SQL** for data extraction, transformation, and analysis
 - Departments Analyzed: **15**
 - Brands Covered: **22**
 * [click-Here](https://github.com/Atunke-commits/Big-Home-Business-Insight)
+
+# Project 3: Sales-Analysis
+# BlinkIt Groceries Sales Analysis Report
+
+## Project Summary
+This project explores Blinkit’s grocery sales dataset to understand category-level performance, outlet segmentation, and product characteristics. Insights were generated using Excel, covering sales forecasting, correlation analysis, and store performance. The findings provide strategic recommendations to optimize revenue growth and improve inventory planning.
+#### Tool Used: Microsoft Excel
+- Data Cleaning: Fixed inconsistencies, missing values, and duplicates.
+- Transformation: Standardized data types for consistency.
+- Visualization: Built charts and dashboards to reveal patterns.
+- Analysis: Performed correlation analysis and forecasting.
+- Project Type: Exploratory Data Analysis & Forecasting
+  
+* [Click-Here](https://github.com/Atunke-commits/Sales-Analysis)
