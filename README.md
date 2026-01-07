@@ -1,4 +1,4 @@
-# Portfolioproject
+# Portfolio Project
 
 ## Project 1: Digital Marketing Campaign Report
 ## Project Overview 
@@ -12,7 +12,7 @@ The dataset contains **2601** columns and **12** rows, which were initially uncl
 - Future marketing predictions
 - Insights and Recommendation
   
-* [click-Here](https://github.com/Atunke-commits/Ads-Performance-Analysis)
+* [Click Here](https://github.com/Atunke-commits/Ads-Performance-Analysis)
 
 # Project 2: Big Home Data Sales Analysis Report
 ## Project Overview
@@ -22,7 +22,7 @@ This project leverages **SQL** for data extraction, transformation, and analysis
 - Total Quantity Sold: **64,231**
 - Departments Analyzed: **15**
 - Brands Covered: **22**
-* [click-Here](https://github.com/Atunke-commits/Big-Home-Business-Insight)
+* [Click Here](https://github.com/Atunke-commits/Big-Home-Business-Insight)
 
 # Project 3: Sales-Analysis
 # BlinkIt Groceries Sales Analysis Report
@@ -36,4 +36,50 @@ This project explores Blinkit’s grocery sales dataset to understand category-l
 - Analysis: Performed correlation analysis and forecasting.
 - Project Type: Exploratory Data Analysis & Forecasting
   
-* [Click-Here](https://github.com/Atunke-commits/Sales-Analysis)
+* [Click Here](https://github.com/Atunke-commits/Sales-Analysis)
+
+# Project 4: Belleza Sales Analysis Report
+## Project Overview
+This project analyzes sales data from Belleza, a skincare and cosmetics company. The dataset was cleaned, standardized, and visualized using Power BI to uncover key business insights, sales trends, product performance, and regional distribution patterns over a six-month period.
+## Dataset Columns:
+* Sales
+* Product
+* Salesperson
+* Boxes Shipped
+* Order Date
+
+[Download-Data](https://github.com/Atunke-commits/Belleza-Sales-store-Analysis/commit/7822cd2ca71b52140fa1fe12f8d2fc3136577156)
+   
+
+
+
+## Key KPIs:
+- Total Revenue:**$3M**
+- Products Analyzed:**15**
+- Total Boxes Shipped:**93,000**
+- Analysis Period:**6 months**
+
+[Click Here](https://github.com/Atunke-commits/Belleza-Sales-store-Analysis)
+
+
+# Project 5: Store-Performance-Analysis
+## Book Store Sales & Ratings Analysis
+### Project Objective
+* To analyze sales performance
+* To evaluate customers satisfactions
+* To compare the contribution of fiction and non-fiction categories
+* To uncover yearly sales trends 
+* To identify top performing books and authors
+* To generate insights and recommendation 
+
+### Key Performance Indicators (KPIs)
+* Average Rating:  4.6 
+* Total Profit:  $7,205.00
+* Total Books Sold: 550 copies
+* Average Selling Price: $13.10
+* Category Contribution:
+Fiction: 44% of profit
+Non-Fiction: 56% of profit
+
+[Click Here](https://github.com/Atunke-commits/Store-Performance-Analysis/tree/main)
+
